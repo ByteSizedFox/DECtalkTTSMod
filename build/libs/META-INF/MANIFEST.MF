@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: dectalkttsmod
+Specification-Vendor: 
+Specification-Version: 1
+Implementation-Title: dectalkttsmod
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor: 
+Implementation-Timestamp: 2026-03-11T18:15:25-0400
+

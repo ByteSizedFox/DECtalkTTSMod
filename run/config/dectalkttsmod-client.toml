@@ -1,0 +1,13 @@
+
+[dectalk_tts]
+	#Enable text-to-speech for chat messages
+	enableChatTTS = false
+	#Volume for TTS playback (0.0 to 1.0)
+	#Range: 0.0 ~ 1.0
+	ttsVolume = 1.0
+	#Read back your own chat messages
+	speakOwnMessages = false
+	#Maximum length of messages to speak
+	#Range: 10 ~ 500
+	maxMessageLength = 200
+
